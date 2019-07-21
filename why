@@ -1,0 +1,14 @@
+```python
+$ python 03.py
+Traceback (most recent call last):
+  File "03.py", line 21, in <module>
+    api_peoplename_data = requests.get(peoplename_url).json()
+  File "C:\Users\사용자\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\models.py", line 897, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Users\사용자\AppData\Local\Programs\Python\Python37\lib\site-packages\simplejson\__init__.py", line 518, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\사용자\AppData\Local\Programs\Python\Python37\lib\site-packages\simplejson\decoder.py", line 373, in decode
+    raise JSONDecodeError("Extra data", s, end, len(s))
+simplejson.errors.JSONDecodeError: Extra data: line 1 column 69 - line 1 column 134 (char 68 - 133)
+```
+
