@@ -1,0 +1,70 @@
+{
+    "peopleListResult": {
+        "totCnt": 178332,
+        "peopleList": [{
+                "peopleCd": "20328592",
+                "peopleNm": "다미앙 마니벨",
+                "peopleNmEn": "Damien MANIVEL",
+                "repRoleNm": "감독",
+                "filmoNames": "이사도라의 아이들"
+            },
+            {
+                "peopleCd": "20326192",
+                "peopleNm": "주현준",
+                "peopleNmEn": "JOO Hyun-joon",
+                "repRoleNm": "감독",
+                "filmoNames": "윤회"
+            },
+            {
+                "peopleCd": "20328572",
+                "peopleNm": "우혜림",
+                "peopleNmEn": "WOO Hye-rim",
+                "repRoleNm": "배우",
+                "filmoNames": "연애의 발동 : 상해 여자, 부산 남자|라스트 갓파더"
+            },
+            {
+                "peopleCd": "10004401",
+                "peopleNm": "김상남",
+                "peopleNmEn": "KIM Sang-nam",
+                "repRoleNm": "감독",
+                "filmoNames": "물아기|갯벌아! 갯벌아!|달빛 프로젝트|일곱 살"
+            },
+            {
+                "peopleCd": "20324373",
+                "peopleNm": "김도형",
+                "peopleNmEn": "KIM Do-hyung",
+                "repRoleNm": "감독",
+                "filmoNames": "마스코트"
+            },
+            {
+                "peopleCd": "20125828",
+                "peopleNm": "배수지",
+                "peopleNmEn": "BAE Suzy",
+                "repRoleNm": "배우",
+                "filmoNames": "리얼|도리화가|건축학개론"
+            },
+            {
+                "peopleCd": "20212660",
+                "peopleNm": "김준한",
+                "peopleNmEn": "KIM Jun-han",
+                "repRoleNm": "배우",
+                "filmoNames": "나랏말싸미|지푸라기라도 잡고 싶은 짐승들|마약왕|변산|허스토리|군함도|박열|마중: 커피숍 난동 수다 사건|공조|내비게이션|현도가|고치|BiFan2015 판타스틱 단편 걸작선 6"
+            },
+            {
+                "peopleCd": "10029093",
+                "peopleNm": "박인환",
+                "peopleNmEn": "PARK In-hwan",
+                "repRoleNm": "배우",
+                "filmoNames": "엑시트|킹메이커 : 선거판의 여우|기묘한 가족|비밥바룰라|푸른노을|루시드 드림|수상한 그녀|홍길동의 후예|박쥐|행복|무도리|투 가이즈|마법의 성|울랄라씨스터즈|봄날은 간다|교도소 월드컵|하면 된다|간첩 리철진|산전수전|조용한 가족|투캅스 3|베이비 세일|돈을 갖고 튀어라|밀크초콜릿 1950-1990|영심이|나는 날마다 일어선다|삶의 향기"
+            },
+            {
+                "peopleCd": "10001486",
+                "peopleNm": "고두심",
+                "peopleNmEn": "KO Doo-shim",
+                "repRoleNm": "배우",
+                "filmoNames": "엑시트|채비|바라던 바다|그랑프리|굿모닝 프레지던트|가족의 탄생|엄마|도마 안중근|인어 공주|이혼하지 않은 여자|나의 아내를 슬프게 하는 것들|1990년 자유부인|푸른계절의 열기|질투|두 여인|깃발없는 기수|아침에 퇴근하는 여자|유혹"
+            }, { "peopleCd": "20215507", "peopleNm": "스티븐 연", "peopleNmEn": "Steven YEUN", "repRoleNm": "배우", "filmoNames": "버닝|더 크리스마스|옥자|메이헴|프랑스 영화처럼" }
+        ],
+        "source": "영화진흥위원회"
+    }
+}

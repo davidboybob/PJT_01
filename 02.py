@@ -35,7 +35,7 @@ for code2 in result:
         }
     
 
-    #pprint(result2)
+    pprint(result2)
 
 
 with open('movies.csv', 'w', encoding='utf-8',newline='') as f:   
